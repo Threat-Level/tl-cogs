@@ -3,7 +3,7 @@ import asyncio
 import aiohttp
 from redbot.core import commands
 
-tl_clans = ['RY9QJU2', '8UQ2', 'LR9CY9VQ', '9CJ9YGPL', 'P09GPU', 'Y9G2LQ2Y', 'PGPQQ8UV', 'PPCG80G0', 'YJ8GRVGY', '9Q20L']
+tl_clans = ['RY9QJU2', '8UQ2', 'LR9CY9VQ', '9CJ9YGPL', 'P09GPU', 'Y9G2LQ2Y', 'PGPQQ8UV', 'PPCG80G0', 'YJ8GRVGY', '9Q20L', 'YPJY9JVL']
 sleep_time = 600
 fameid = 844662799379595305
 donationsid = 844663013058543676
